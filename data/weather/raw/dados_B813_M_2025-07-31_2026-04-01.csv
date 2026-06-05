@@ -1,0 +1,22 @@
+Nome: MINAS DO LEAO
+Codigo Estacao: B813
+Latitude: -30.12444443
+Longitude: -52.05083333
+Altitude: 54
+Situacao: Operante
+Data Inicial: 2025-07-31
+Data Final: 2026-04-01
+Periodicidade da Medicao: Mensal
+
+Data Medicao;NUMERO DE DIAS COM PRECIP. PLUV, MENSAL (AUT)(número);PRECIPITACAO TOTAL, MENSAL (AUT)(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL (AUT)(mB);TEMPERATURA MEDIA, MENSAL (AUT)(°C);VENTO, VELOCIDADE MAXIMA MENSAL (AUT)(m/s);VENTO, VELOCIDADE MEDIA MENSAL (AUT)(m/s);
+2025-07-31;null;null;null;null;null;null;
+2025-08-31;null;null;null;null;null;null;
+2025-09-30;null;null;null;null;null;null;
+2025-10-31;null;null;null;null;5,6;null;
+2025-11-30;null;21,3;1008,6;21,3;6,8;2,1;
+2025-12-31;null;151,1;1004,2;24,3;6,2;1,7;
+2026-01-31;null;90,5;1007,8;24,2;6;1,8;
+2026-02-28;null;49,2;1006,7;24,5;5,8;1,9;
+2026-03-31;null;114,1;1007,3;24,3;6;1,8;
+2026-04-30;null;104,9;1009,1;20,5;6,7;1,6;
+
