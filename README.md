@@ -13,13 +13,13 @@
 
 ---
 
-## 👥 Identificação do Grupo & Repositório
+## 👥 Identificação do Grupo
 
 | Integrante | RA |
 | :--- | :--- |
 | **Lucas Ricieri Siquinelli Pereira** | 1858025 |
 
-* **Repositório Git para acompanhamento:** [lucas-ricieri/data-science](https://github.com/lucas-ricieri/data-science)
+
 
 ---
 ## 📊 Descrição do Dataset
@@ -45,16 +45,25 @@ Certifique-se de possuir o Python (versão 3.8 ou superior) instalado em seu amb
    git clone https://github.com/lucas-ricieri/data-science.git
    cd data-science
    ```
-2. Instale as bibliotecas necessárias para manipulação de dados e modelagem:
+2. Instale as bibliotecas necessárias para manipulação, análise e exportação dos dados:
    ```bash
-   pip install pandas numpy scikit-learn matplotlib seaborn openpyxl jupyter
+   pip install pandas numpy scikit-learn matplotlib seaborn duckdb pyarrow openpyxl jupyter
+   ```
 
 ### Execução do Projeto
-Toda a esteira de análise exploratória, processamento e modelagem está concentrada no notebook principal:
+Os notebooks finais devem ser executados em sequência, pois cada entrega utiliza artefatos gerados pela etapa anterior:
+
 1. Abra o Jupyter Notebook:
    ```bash
    jupyter notebook
    ```
-2. Navegue até a pasta `final` e abra o arquivo:
-   * **[main.ipynb](file:///c:/UTFPR/data-science/final/main.ipynb)**
-3. Execute as células sequencialmente para visualizar o carregamento dos dados das pastas `data/commodity`, `data/weather` e `data/economic`, a análise estatística e os resultados do modelo preditivo.
+2. Navegue até a pasta `final`.
+3. Execute os notebooks nesta ordem:
+   * `entrega_1.ipynb` - definição do problema, dataset e hipóteses.
+   * `entrega_2.ipynb` - integração, limpeza e geração do dataset final em `data/processed/dataset_final.parquet`.
+   * `entrega_3.ipynb` - consultas SQL, análise exploratória, janelas climáticas pré-colheita, testes preliminares das hipóteses H2/H3 e geração de `data/processed/dataset_entrega3_tidy.parquet`.
+
+Também é possível executar a Entrega 3 diretamente pelo terminal, após a Entrega 2 já ter gerado os dados processados:
+```bash
+jupyter nbconvert --to notebook --execute final/entrega_3.ipynb --inplace
+```
