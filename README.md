@@ -42,8 +42,8 @@ Certifique-se de possuir o Python (versão 3.8 ou superior) instalado em seu amb
 ### Instalação e Preparação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/lucas-ricieri/data-science.git
-   cd data-science
+   git clone https://github.com/lucas-ricieri/commodity-predictor.git
+   cd commodity-predictor
    ```
 2. Instale as bibliotecas necessárias para manipulação, análise e exportação dos dados:
    ```bash
