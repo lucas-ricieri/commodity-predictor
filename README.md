@@ -67,5 +67,3 @@ Também é possível executar a Entrega 3 diretamente pelo terminal, após a Ent
 ```bash
 jupyter nbconvert --to notebook --execute final/entrega_3.ipynb --inplace
 ```
-
-# commodity-predictor
