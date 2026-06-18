@@ -1,0 +1,81 @@
+target,target_label,cultura,modelo,status,conjunto,n_linhas,MAE,MSE,RMSE,MAE_relativo_pct
+area_colhida_ha,Area colhida,Cana_de_acucar,Regressao Linear,baseline,teste_final_por_cultura,78,517519.998089096,1054520521695.7863,1026898.4962963897,135.02059750000112
+area_colhida_ha,Area colhida,Cana_de_acucar,Random Forest default,default,teste_final_por_cultura,78,35984.342307692306,4918986436.070999,70135.48628241626,9.388289181035136
+area_colhida_ha,Area colhida,Cana_de_acucar,Random Forest tunado,tunado,teste_final_por_cultura,78,47059.75683760684,10210936086.374342,101049.17657444984,12.277856913511062
+area_colhida_ha,Area colhida,Cana_de_acucar,LightGBM default,default,teste_final_por_cultura,78,73767.57062960799,21719353460.22486,147374.87391080224,19.245906437065784
+area_colhida_ha,Area colhida,Cana_de_acucar,LightGBM tunado,tunado,teste_final_por_cultura,78,65228.305686256346,9065463612.185421,95212.72820471757,17.018018318501415
+area_colhida_ha,Area colhida,Mandioca,Regressao Linear,baseline,teste_final_por_cultura,78,395330.2552294691,616760736064.7689,785341.1590288446,862.2596800951019
+area_colhida_ha,Area colhida,Mandioca,Random Forest default,default,teste_final_por_cultura,78,14910.272820512826,910338658.4478027,30171.81894496589,32.52097936416104
+area_colhida_ha,Area colhida,Mandioca,Random Forest tunado,tunado,teste_final_por_cultura,78,15452.839458689461,873171896.3503665,29549.482167211772,33.7043781293097
+area_colhida_ha,Area colhida,Mandioca,LightGBM default,default,teste_final_por_cultura,78,48752.82271264975,10670136108.983253,103296.35089868012,106.33538101338058
+area_colhida_ha,Area colhida,Mandioca,LightGBM tunado,tunado,teste_final_por_cultura,78,27472.115070785723,1955966913.3185236,44226.31471554603,59.919767938635985
+area_colhida_ha,Area colhida,Milho,Regressao Linear,baseline,teste_final_por_cultura,78,408286.41360897635,604449255810.2213,777463.34692397,51.10554438923118
+area_colhida_ha,Area colhida,Milho,Random Forest default,default,teste_final_por_cultura,78,196177.84602564102,299913275762.138,547643.3837472503,24.555741469881557
+area_colhida_ha,Area colhida,Milho,Random Forest tunado,tunado,teste_final_por_cultura,78,201573.45527065534,291643384965.2451,540040.1697700322,25.231114292946184
+area_colhida_ha,Area colhida,Milho,LightGBM default,default,teste_final_por_cultura,78,170336.21343090045,183626361921.66354,428516.4663366666,21.321123178307623
+area_colhida_ha,Area colhida,Milho,LightGBM tunado,tunado,teste_final_por_cultura,78,217691.7624752328,259689905533.5672,509597.78799909167,27.248655991288622
+area_colhida_ha,Area colhida,Soja,Regressao Linear,baseline,teste_final_por_cultura,78,1197395.7062924763,3612009429343.4,1900528.7236301901,75.14275981669374
+area_colhida_ha,Area colhida,Soja,Random Forest default,default,teste_final_por_cultura,78,318967.0547435897,327886213235.2186,572613.4937592885,20.016828737634807
+area_colhida_ha,Area colhida,Soja,Random Forest tunado,tunado,teste_final_por_cultura,78,329387.62898860406,332208689528.0345,576375.4761681264,20.67077354763388
+area_colhida_ha,Area colhida,Soja,LightGBM default,default,teste_final_por_cultura,78,301074.94550230925,449235155390.8433,670250.0692956647,18.8940065492252
+area_colhida_ha,Area colhida,Soja,LightGBM tunado,tunado,teste_final_por_cultura,78,320362.0170758152,325193529772.61536,570257.4241275736,20.104369822785607
+area_plantada_ha,Area plantada,Cana_de_acucar,Regressao Linear,baseline,teste_final_por_cultura,78,542279.2146173879,1082682716130.3546,1040520.4063978537,141.23211605387382
+area_plantada_ha,Area plantada,Cana_de_acucar,Random Forest default,default,teste_final_por_cultura,78,37406.237692307695,5463183703.207424,73913.35267194571,9.742143826453411
+area_plantada_ha,Area plantada,Cana_de_acucar,Random Forest tunado,tunado,teste_final_por_cultura,78,51596.69301994303,11380041385.805084,106677.27680159952,13.437930018634791
+area_plantada_ha,Area plantada,Cana_de_acucar,LightGBM default,default,teste_final_por_cultura,78,78865.10191104807,24004014290.05143,154932.28937200736,20.539760561467375
+area_plantada_ha,Area plantada,Cana_de_acucar,LightGBM tunado,tunado,teste_final_por_cultura,78,63135.63106474789,9264821228.578764,96253.94136646438,16.443150563980925
+area_plantada_ha,Area plantada,Mandioca,Regressao Linear,baseline,teste_final_por_cultura,78,415613.1038879695,659928141471.5382,812359.6133927008,897.0337540136551
+area_plantada_ha,Area plantada,Mandioca,Random Forest default,default,teste_final_por_cultura,78,15034.630000000001,897111993.5152744,29951.827882706497,32.44982042900575
+area_plantada_ha,Area plantada,Mandioca,Random Forest tunado,tunado,teste_final_por_cultura,78,15064.00754985755,734509750.2025403,27101.840347152447,32.5132271252478
+area_plantada_ha,Area plantada,Mandioca,LightGBM default,default,teste_final_por_cultura,78,43177.8068340964,6810478559.257769,82525.6236526436,93.19232187853811
+area_plantada_ha,Area plantada,Mandioca,LightGBM tunado,tunado,teste_final_por_cultura,78,28346.59743914812,1716376211.9054627,41429.17102604713,61.18155196859987
+area_plantada_ha,Area plantada,Milho,Regressao Linear,baseline,teste_final_por_cultura,78,436897.896559546,605884981647.4406,778386.1391670849,53.789598432998154
+area_plantada_ha,Area plantada,Milho,Random Forest default,default,teste_final_por_cultura,78,213630.66576923075,334087535883.3651,578003.058714541,26.301586286384907
+area_plantada_ha,Area plantada,Milho,Random Forest tunado,tunado,teste_final_por_cultura,78,205078.06538461542,310796594966.73065,557491.3407100873,25.24861499980041
+area_plantada_ha,Area plantada,Milho,LightGBM default,default,teste_final_por_cultura,78,179476.15491333953,181800551827.3176,426380.7592133088,22.096582238343046
+area_plantada_ha,Area plantada,Milho,LightGBM tunado,tunado,teste_final_por_cultura,78,241356.55410486832,275684184529.30194,525056.3631928499,29.71511702552599
+area_plantada_ha,Area plantada,Soja,Regressao Linear,baseline,teste_final_por_cultura,78,1219030.6850061407,3606420336465.803,1899057.74963949,76.33411499972077
+area_plantada_ha,Area plantada,Soja,Random Forest default,default,teste_final_por_cultura,78,331444.1075641026,338804159140.79565,582068.8611674701,20.754598661025977
+area_plantada_ha,Area plantada,Soja,Random Forest tunado,tunado,teste_final_por_cultura,78,341223.71132478636,371168521932.1137,609236.0149663788,21.366984720951923
+area_plantada_ha,Area plantada,Soja,LightGBM default,default,teste_final_por_cultura,78,306024.7717113211,438123293817.73395,661908.8259101354,19.16287293166669
+area_plantada_ha,Area plantada,Soja,LightGBM tunado,tunado,teste_final_por_cultura,78,328088.58098969585,342338059243.63074,585096.6238525315,20.54447995395332
+quantidade_produzida_t,Quantidade produzida,Cana_de_acucar,Regressao Linear,baseline,teste_final_por_cultura,78,27024083.674625166,3662711749422206.0,60520341.61686636,94.7880246756676
+quantidade_produzida_t,Quantidade produzida,Cana_de_acucar,Random Forest default,default,teste_final_por_cultura,78,1971214.746794871,16158425585433.46,4019754.418547663,6.914112400994249
+quantidade_produzida_t,Quantidade produzida,Cana_de_acucar,Random Forest tunado,tunado,teste_final_por_cultura,78,2113800.9815527066,18081707908625.67,4252259.153511892,7.414239165748418
+quantidade_produzida_t,Quantidade produzida,Cana_de_acucar,LightGBM default,default,teste_final_por_cultura,78,4787894.330055561,74313601625144.22,8620533.720434265,16.793725602912247
+quantidade_produzida_t,Quantidade produzida,Cana_de_acucar,LightGBM tunado,tunado,teste_final_por_cultura,78,2664334.625378416,24491637833771.38,4948902.689866854,9.345257336208562
+quantidade_produzida_t,Quantidade produzida,Mandioca,Regressao Linear,baseline,teste_final_por_cultura,78,5504533.934941536,377926325546662.1,19440327.3003996,791.2581103966614
+quantidade_produzida_t,Quantidade produzida,Mandioca,Random Forest default,default,teste_final_por_cultura,78,306021.0855128205,362294420850.4939,601908.9805365043,43.989494610497175
+quantidade_produzida_t,Quantidade produzida,Mandioca,Random Forest tunado,tunado,teste_final_por_cultura,78,281175.86780626775,236154074926.07513,485956.8652936957,40.418078710943924
+quantidade_produzida_t,Quantidade produzida,Mandioca,LightGBM default,default,teste_final_por_cultura,78,1364095.7216343975,12610575738329.176,3551137.24577482,196.08414006663173
+quantidade_produzida_t,Quantidade produzida,Mandioca,LightGBM tunado,tunado,teste_final_por_cultura,78,498095.96788440493,457384780452.3405,676302.2848196955,71.59960843235248
+quantidade_produzida_t,Quantidade produzida,Milho,Regressao Linear,baseline,teste_final_por_cultura,78,6410119.477351356,409756805270813.94,20242450.574740548,151.66361438135863
+quantidade_produzida_t,Quantidade produzida,Milho,Random Forest default,default,teste_final_por_cultura,78,1327775.1815384617,13074444433701.781,3615860.123636115,31.41519964323588
+quantidade_produzida_t,Quantidade produzida,Milho,Random Forest tunado,tunado,teste_final_por_cultura,78,1291901.0297720798,12561628347841.021,3544238.7543506464,30.56641616283763
+quantidade_produzida_t,Quantidade produzida,Milho,LightGBM default,default,teste_final_por_cultura,78,1194339.24399985,10327070139800.717,3213575.9116287758,28.25810145700471
+quantidade_produzida_t,Quantidade produzida,Milho,LightGBM tunado,tunado,teste_final_por_cultura,78,1578673.7779650842,12731725344860.998,3568154.333105702,37.351467775478945
+quantidade_produzida_t,Quantidade produzida,Soja,Regressao Linear,baseline,teste_final_por_cultura,78,7187071.101680959,419278599359593.25,20476293.59429077,137.66428545308037
+quantidade_produzida_t,Quantidade produzida,Soja,Random Forest default,default,teste_final_por_cultura,78,1483998.075897436,9533616201218.326,3087655.453773676,28.425144518799204
+quantidade_produzida_t,Quantidade produzida,Soja,Random Forest tunado,tunado,teste_final_por_cultura,78,1528806.0498575498,9148558145888.469,3024658.35192811,29.283415938484566
+quantidade_produzida_t,Quantidade produzida,Soja,LightGBM default,default,teste_final_por_cultura,78,1521757.1540247416,8917644742078.436,2986242.5792420874,29.148398322222246
+quantidade_produzida_t,Quantidade produzida,Soja,LightGBM tunado,tunado,teste_final_por_cultura,78,1727579.6383809377,8667232269864.957,2944016.350135467,33.0908116973239
+rendimento_medio_producao_kg_ha,Rendimento medio,Cana_de_acucar,Regressao Linear,baseline,teste_final_por_cultura,78,14393.408959461247,271700302.78734994,16483.334091965433,23.770378243997143
+rendimento_medio_producao_kg_ha,Rendimento medio,Cana_de_acucar,Random Forest default,default,teste_final_por_cultura,78,5984.155384615386,67804237.60080001,8234.332857056484,9.882692652157106
+rendimento_medio_producao_kg_ha,Rendimento medio,Cana_de_acucar,Random Forest tunado,tunado,teste_final_por_cultura,78,6248.8975892385715,69109238.65419108,8313.196656773558,10.319908210942865
+rendimento_medio_producao_kg_ha,Rendimento medio,Cana_de_acucar,LightGBM default,default,teste_final_por_cultura,78,5954.31640586127,52470068.07845121,7243.62257979053,9.833414276659154
+rendimento_medio_producao_kg_ha,Rendimento medio,Cana_de_acucar,LightGBM tunado,tunado,teste_final_por_cultura,78,5485.035387981073,45955489.51248261,6779.047832290506,9.058407651810372
+rendimento_medio_producao_kg_ha,Rendimento medio,Mandioca,Regressao Linear,baseline,teste_final_por_cultura,78,8521.569674556626,95724472.30552305,9783.888404183843,56.77164627736734
+rendimento_medio_producao_kg_ha,Rendimento medio,Mandioca,Random Forest default,default,teste_final_por_cultura,78,878.1826923076922,1704650.2154705126,1305.6225394310993,5.850550905363853
+rendimento_medio_producao_kg_ha,Rendimento medio,Mandioca,Random Forest tunado,tunado,teste_final_por_cultura,78,1071.5371587496215,1814708.2972350377,1347.1110931304208,7.138699896008753
+rendimento_medio_producao_kg_ha,Rendimento medio,Mandioca,LightGBM default,default,teste_final_por_cultura,78,1131.3136149558482,2274583.6175567335,1508.1722771476518,7.536937304967215
+rendimento_medio_producao_kg_ha,Rendimento medio,Mandioca,LightGBM tunado,tunado,teste_final_por_cultura,78,1090.8219995096401,1851423.3918738968,1360.6701995244464,7.26717765303655
+rendimento_medio_producao_kg_ha,Rendimento medio,Milho,Regressao Linear,baseline,teste_final_por_cultura,78,3408.8426845261038,15651531.226534272,3956.2016160117864,88.01585253317225
+rendimento_medio_producao_kg_ha,Rendimento medio,Milho,Random Forest default,default,teste_final_por_cultura,78,780.6998717948719,1381157.1491371794,1175.2264246251355,20.15756406139831
+rendimento_medio_producao_kg_ha,Rendimento medio,Milho,Random Forest tunado,tunado,teste_final_por_cultura,78,786.8263414732477,1030952.4576306907,1015.3582902752559,20.31574867173795
+rendimento_medio_producao_kg_ha,Rendimento medio,Milho,LightGBM default,default,teste_final_por_cultura,78,797.4546484578647,1494728.0856809285,1222.590726973229,20.590170106461734
+rendimento_medio_producao_kg_ha,Rendimento medio,Milho,LightGBM tunado,tunado,teste_final_por_cultura,78,877.603396632734,1171802.2965428645,1082.498173921261,22.659599837584203
+rendimento_medio_producao_kg_ha,Rendimento medio,Soja,Regressao Linear,baseline,teste_final_por_cultura,78,2604.285830022292,8603137.929953448,2933.1106235451552,90.52048052945709
+rendimento_medio_producao_kg_ha,Rendimento medio,Soja,Random Forest default,default,teste_final_por_cultura,78,835.9196153846154,1385575.5159961537,1177.1047175150363,29.055123057658633
+rendimento_medio_producao_kg_ha,Rendimento medio,Soja,Random Forest tunado,tunado,teste_final_por_cultura,78,791.4213146621807,1211368.2214830972,1100.6217431447997,27.50843892732852
+rendimento_medio_producao_kg_ha,Rendimento medio,Soja,LightGBM default,default,teste_final_por_cultura,78,814.9323679330333,1311122.3768576032,1145.0425218556747,28.325642559624526
+rendimento_medio_producao_kg_ha,Rendimento medio,Soja,LightGBM tunado,tunado,teste_final_por_cultura,78,807.2547676408549,1284432.0396929488,1133.3278606356366,28.058782424784734

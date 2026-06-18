@@ -1,0 +1,17 @@
+target,target_label,cultura,modelo,status,MAE,MSE,RMSE,MAE_relativo_pct
+area_colhida_ha,Area colhida,Cana_de_acucar,Random Forest default,default,35984.342307692306,4918986436.070999,70135.48628241626,9.388289181035136
+area_colhida_ha,Area colhida,Mandioca,Random Forest tunado,tunado,15452.839458689461,873171896.3503665,29549.482167211772,33.7043781293097
+area_colhida_ha,Area colhida,Milho,LightGBM default,default,170336.21343090045,183626361921.66354,428516.4663366666,21.321123178307623
+area_colhida_ha,Area colhida,Soja,LightGBM tunado,tunado,320362.0170758152,325193529772.61536,570257.4241275736,20.104369822785607
+area_plantada_ha,Area plantada,Cana_de_acucar,Random Forest default,default,37406.237692307695,5463183703.207424,73913.35267194571,9.742143826453411
+area_plantada_ha,Area plantada,Mandioca,Random Forest tunado,tunado,15064.00754985755,734509750.2025403,27101.840347152447,32.5132271252478
+area_plantada_ha,Area plantada,Milho,LightGBM default,default,179476.15491333953,181800551827.3176,426380.7592133088,22.096582238343046
+area_plantada_ha,Area plantada,Soja,Random Forest default,default,331444.1075641026,338804159140.79565,582068.8611674701,20.754598661025977
+quantidade_produzida_t,Quantidade produzida,Cana_de_acucar,Random Forest default,default,1971214.746794871,16158425585433.46,4019754.418547663,6.914112400994249
+quantidade_produzida_t,Quantidade produzida,Mandioca,Random Forest tunado,tunado,281175.86780626775,236154074926.07513,485956.8652936957,40.418078710943924
+quantidade_produzida_t,Quantidade produzida,Milho,LightGBM default,default,1194339.24399985,10327070139800.717,3213575.9116287758,28.25810145700471
+quantidade_produzida_t,Quantidade produzida,Soja,LightGBM tunado,tunado,1727579.6383809377,8667232269864.957,2944016.350135467,33.0908116973239
+rendimento_medio_producao_kg_ha,Rendimento medio,Cana_de_acucar,LightGBM tunado,tunado,5485.035387981073,45955489.51248261,6779.047832290506,9.058407651810372
+rendimento_medio_producao_kg_ha,Rendimento medio,Mandioca,Random Forest default,default,878.1826923076922,1704650.2154705126,1305.6225394310993,5.850550905363853
+rendimento_medio_producao_kg_ha,Rendimento medio,Milho,Random Forest tunado,tunado,786.8263414732477,1030952.4576306907,1015.3582902752559,20.31574867173795
+rendimento_medio_producao_kg_ha,Rendimento medio,Soja,Random Forest tunado,tunado,791.4213146621807,1211368.2214830972,1100.6217431447997,27.50843892732852

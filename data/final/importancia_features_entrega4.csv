@@ -1,0 +1,61 @@
+feature,importance,target,target_label,modelo
+pressao_media_mb_media_anual,256.0,area_plantada_ha,Area plantada,LightGBM tunado
+n_estacoes_media_anual,239.0,area_plantada_ha,Area plantada,LightGBM tunado
+temp_media_c_media_anual,179.0,area_plantada_ha,Area plantada,LightGBM tunado
+vento_media_ms_media_anual,172.0,area_plantada_ha,Area plantada,LightGBM tunado
+tipo_cultura_Grao,162.0,area_plantada_ha,Area plantada,LightGBM tunado
+cultura_Soja,149.0,area_plantada_ha,Area plantada,LightGBM tunado
+cultura_Cana_de_acucar,113.0,area_plantada_ha,Area plantada,LightGBM tunado
+cultura_Milho,111.0,area_plantada_ha,Area plantada,LightGBM tunado
+ano,104.0,area_plantada_ha,Area plantada,LightGBM tunado
+dias_precip_media_anual,97.0,area_plantada_ha,Area plantada,LightGBM tunado
+vento_max_ms_media_anual,87.0,area_plantada_ha,Area plantada,LightGBM tunado
+cultura_Mandioca,86.0,area_plantada_ha,Area plantada,LightGBM tunado
+uf_MT,75.0,area_plantada_ha,Area plantada,LightGBM tunado
+uf_SP,63.0,area_plantada_ha,Area plantada,LightGBM tunado
+uf_PR,60.0,area_plantada_ha,Area plantada,LightGBM tunado
+pressao_media_mb_media_anual,268.0,area_colhida_ha,Area colhida,LightGBM tunado
+n_estacoes_media_anual,232.0,area_colhida_ha,Area colhida,LightGBM tunado
+temp_media_c_media_anual,227.0,area_colhida_ha,Area colhida,LightGBM tunado
+tipo_cultura_Grao,170.0,area_colhida_ha,Area colhida,LightGBM tunado
+cultura_Soja,161.0,area_colhida_ha,Area colhida,LightGBM tunado
+vento_media_ms_media_anual,161.0,area_colhida_ha,Area colhida,LightGBM tunado
+cultura_Cana_de_acucar,108.0,area_colhida_ha,Area colhida,LightGBM tunado
+dias_precip_media_anual,102.0,area_colhida_ha,Area colhida,LightGBM tunado
+ano,99.0,area_colhida_ha,Area colhida,LightGBM tunado
+cultura_Milho,97.0,area_colhida_ha,Area colhida,LightGBM tunado
+anomalia_precip_media_anual,86.0,area_colhida_ha,Area colhida,LightGBM tunado
+cultura_Mandioca,79.0,area_colhida_ha,Area colhida,LightGBM tunado
+uf_MT,76.0,area_colhida_ha,Area colhida,LightGBM tunado
+vento_max_ms_media_anual,76.0,area_colhida_ha,Area colhida,LightGBM tunado
+uf_SP,67.0,area_colhida_ha,Area colhida,LightGBM tunado
+pressao_media_mb_media_anual,285.0,rendimento_medio_producao_kg_ha,Rendimento medio,LightGBM tunado
+cultura_Cana_de_acucar,227.0,rendimento_medio_producao_kg_ha,Rendimento medio,LightGBM tunado
+temp_media_c_media_anual,205.0,rendimento_medio_producao_kg_ha,Rendimento medio,LightGBM tunado
+vento_max_ms_media_anual,182.0,rendimento_medio_producao_kg_ha,Rendimento medio,LightGBM tunado
+anomalia_precip_media_anual,167.0,rendimento_medio_producao_kg_ha,Rendimento medio,LightGBM tunado
+precip_total_mm_anual,158.0,rendimento_medio_producao_kg_ha,Rendimento medio,LightGBM tunado
+tipo_cultura_Grao,150.0,rendimento_medio_producao_kg_ha,Rendimento medio,LightGBM tunado
+dias_precip_media_anual,148.0,rendimento_medio_producao_kg_ha,Rendimento medio,LightGBM tunado
+n_estacoes_media_anual,133.0,rendimento_medio_producao_kg_ha,Rendimento medio,LightGBM tunado
+vento_media_ms_media_anual,121.0,rendimento_medio_producao_kg_ha,Rendimento medio,LightGBM tunado
+ano,103.0,rendimento_medio_producao_kg_ha,Rendimento medio,LightGBM tunado
+cultura_Mandioca,73.0,rendimento_medio_producao_kg_ha,Rendimento medio,LightGBM tunado
+cultura_Soja,54.0,rendimento_medio_producao_kg_ha,Rendimento medio,LightGBM tunado
+ipca_monitorados_total_media_anual,53.0,rendimento_medio_producao_kg_ha,Rendimento medio,LightGBM tunado
+cultura_Milho,50.0,rendimento_medio_producao_kg_ha,Rendimento medio,LightGBM tunado
+cultura_Cana_de_acucar,0.31961247754109123,quantidade_produzida_t,Quantidade produzida,Random Forest tunado
+tipo_cultura_Industrial,0.3038609298393478,quantidade_produzida_t,Quantidade produzida,Random Forest tunado
+uf_SP,0.2618765671100361,quantidade_produzida_t,Quantidade produzida,Random Forest tunado
+n_estacoes_media_anual,0.037485927084618585,quantidade_produzida_t,Quantidade produzida,Random Forest tunado
+pressao_media_mb_media_anual,0.031225226835367412,quantidade_produzida_t,Quantidade produzida,Random Forest tunado
+vento_media_ms_media_anual,0.00914979992296165,quantidade_produzida_t,Quantidade produzida,Random Forest tunado
+tipo_cultura_Raiz,0.0038625073655419906,quantidade_produzida_t,Quantidade produzida,Random Forest tunado
+tipo_cultura_Grao,0.003707513224641888,quantidade_produzida_t,Quantidade produzida,Random Forest tunado
+dias_precip_media_anual,0.0032479447622259412,quantidade_produzida_t,Quantidade produzida,Random Forest tunado
+uf_PR,0.0028903720649509352,quantidade_produzida_t,Quantidade produzida,Random Forest tunado
+regiao_Sudeste,0.0022122209768920473,quantidade_produzida_t,Quantidade produzida,Random Forest tunado
+uf_MT,0.002164566200684077,quantidade_produzida_t,Quantidade produzida,Random Forest tunado
+vento_max_ms_media_anual,0.002012042280451856,quantidade_produzida_t,Quantidade produzida,Random Forest tunado
+uf_AL,0.0019687196192247737,quantidade_produzida_t,Quantidade produzida,Random Forest tunado
+cultura_Mandioca,0.0019209681586996904,quantidade_produzida_t,Quantidade produzida,Random Forest tunado
